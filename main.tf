@@ -1,4 +1,5 @@
 resource "azurerm_resource_group" "example" {
-  name = "rg-by-terraform"
+  name = "rg-terraform-arvind"
   location = "Central India"
   }
+  
